@@ -22,8 +22,8 @@
 - It took me around 1 hours to built this website from scratch.
 
 ## Links
-- [live demo]()
-- [source]()
+- [live demo](https://qr-code-generator-02344.netlify.app/)
+- [source](https://github.com/RAM844/QR-Code-Generator)
 
 
 ## Contact me
