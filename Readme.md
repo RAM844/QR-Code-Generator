@@ -1,6 +1,6 @@
 # QR Code Generator
 
-- This is a QR Code Generator, made using html and css 
+- This is a QR Code Generator, made using HTML, CSS and Javascript
 
 ## Screenshot
 
